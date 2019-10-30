@@ -172,7 +172,7 @@ card_categoria=(search)=>{
 window.onload=()=>{
     let search='2019'; 
     slider_inicio(search);
-    /*portada_imagen(); --------------este si vale*/
+    portada_imagen();
     /*cargar_card_portada();*/
     /*card_actividades();*/
     /*----------------Actividades que realiza ajayu----------- */
