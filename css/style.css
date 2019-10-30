@@ -80,6 +80,7 @@
 @media (max-width:600px){
     .card_actividades{
         grid-column: -1/1;
+        display: none;
     }
     .card_publicaciones{
         grid-column: -1/1;
